@@ -1,0 +1,8 @@
+rfdetr
+supervision
+opencv-python
+torch
+torchvision
+numpy
+tqdm
+psutil

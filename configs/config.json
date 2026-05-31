@@ -1,0 +1,11 @@
+{
+    "model": {
+        "default_size": "M",
+        "supported_sizes": ["N", "S", "M", "L", "XL", "2XL"],
+        "cache_dir": "../models/pretrained"
+    },
+    "inference": {
+        "default_confidence_threshold": 0.5,
+        "device": "auto"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "timestamp": "2026-05-09 17:39:33.145018",
+    "model_size": "M",
+    "performance": {
+        "avg_latency_ms": 49.209134578704834,
+        "fps": 20.321430331204162,
+        "gpu_mem_allocated_mb": 138.3349609375,
+        "gpu_mem_reserved_mb": 222.0,
+        "sys_ram_usage_percent": 68.2
+    }
+}
